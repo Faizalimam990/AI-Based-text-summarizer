@@ -21,8 +21,8 @@ The model is trained on the [CNN/Daily Mail dataset](https://www.kaggle.com/data
    ```bash
    https://github.com/Faizalimam990/AI-Based-text-summarizer/
    cd AI-Based-text-summarizer
-```bash
+
 2.pip install -r requirements.txt.
-```bash
+
 3.python main.py
 
